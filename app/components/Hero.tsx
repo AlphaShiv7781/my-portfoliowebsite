@@ -4,7 +4,7 @@ import { SiLeetcode, SiGeeksforgeeks } from 'react-icons/si'
 import React from 'react'
 
 function Hero() {
-  const CV = '/Shivam_Sharma.pdf';
+  const CV = '/Shivam_Sharma_Resume.pdf';
   return (
     <div>
         <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1920&q=80')] bg-cover bg-center opacity-5"></div>
