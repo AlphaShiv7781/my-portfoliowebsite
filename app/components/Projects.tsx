@@ -3,18 +3,32 @@ const Projects = () => {
 
     const projects = [
         {
+          title: "InstaScan",
+          description: " InstaScan, an AI-powered medical imaging application for skin cancer and pneumonia detection using deep learning.",
+          image: "/instaScanLogo.jpg",
+          link: "https://github.com/AlphaShiv7781/InstaScan",
+          icon: <Code className="w-6 h-6 text-[#0fa]" />
+        },
+        {
+          title: "EduAI",
+          description: " EduAI, an AI-powered educational platform for personalized learning and interactive content.",
+          image: "/EduAI.jpeg",
+          link: "https://github.com/AlphaShiv7781/EduAI-RAG_Engine",
+          icon: <Code className="w-6 h-6 text-[#0fa]" />
+        }, 
+        {
+          title: "CallMate",
+          description: " CallMate, A Video Calling App built with Flutter, featuring real-time communication and a user-friendly interface.",
+          image: "/Call_Mate.jpeg",
+          link: "https://github.com/AlphaShiv7781/CallMate",
+          icon: <Code className="w-6 h-6 text-[#0fa]" />
+        },  
+        {
           title: "ShlokaSaar",
           description: " An AI-powered Sanskrit shloka interpretation app using Flutter, providing real-time translations and explanations.",
           image: "/ShlokaSaarLogo.png",
         
           link: "https://github.com/AlphaShiv7781/ShlokaSaar-Frontend",
-          icon: <Code className="w-6 h-6 text-[#0fa]" />
-        },
-        {
-          title: "InstaScan",
-          description: " InstaScan, an AI-powered medical imaging application for skin cancer and pneumonia detection using deep learning.",
-          image: "/instaScanLogo.jpg",
-          link: "https://github.com/AlphaShiv7781/InstaScan",
           icon: <Code className="w-6 h-6 text-[#0fa]" />
         },
         {
